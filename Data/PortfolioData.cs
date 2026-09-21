@@ -13,8 +13,8 @@ public static class PortfolioData
     {
         public const string FullName = "Eric Chang Tat Seng";
         public const string Headline = "Computer Science / Information Technology - Student";
-        public const string Tagline = "I build web applications using backend APIs and full-stack technologies, focusing on writing clean and maintainable code while continuously learning through projects. I am currently seeking a software engineering internship or graduate opportunity.";
-        public const string AvailabilityStatus = " Looking for a job";
+        public const string Tagline = "I build web applications using backend APIs and full-stack technologies, focusing on writing clean and maintainable code while continuously learning through by doing personal projects. ";
+        public const string AvailabilityStatus = " Looking for a internship/job";
         public const string Email = "ssk1013eric2@gmail.com";
         public const string GitHubUrl = "https://github.com/sskeric";
         public const string ResumeUrl = "files/resume.pdf";
