@@ -173,7 +173,7 @@ public static class PortfolioData
         {
             Title = "Bachelor of Computer Science",
             Organization = "INTI International University",
-            Period = "Jan 2024 – Expected Nov/Dec 2026",
+            Period = "Jan 2024 – Expected 2027",
             Type = ExperienceType.Education,
             Highlights = new()
             {
